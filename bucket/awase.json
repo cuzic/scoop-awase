@@ -1,10 +1,10 @@
 {
-  "version": "1.11.0",
+  "version": "1.12.0",
   "description": "A simultaneous-keystroke keyboard remapper for NICOLA thumb shift and beyond",
   "homepage": "https://github.com/cuzic/awase",
   "license": "MIT OR Apache-2.0",
-  "url": "https://github.com/cuzic/awase/releases/download/v1.11.0/awase-1.11.0-x64.zip",
-  "hash": "sha256:f3049e7436bae2aa90da34c4bff307799a2b141d45405592b546b3fbc238d502",
+  "url": "https://github.com/cuzic/awase/releases/download/v1.12.0/awase-1.12.0-x64.zip",
+  "hash": "sha256:594393aeefae0f22f9f551af853dbde5ab55ca18de5abf4f8068d927de487234",
   "bin": [
     "awase.exe"
   ],
